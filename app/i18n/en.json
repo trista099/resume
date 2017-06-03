@@ -1,7 +1,7 @@
 {
   "html": {
-    "title": "Wenbo Jie's Resume",
-    "description": "resume front-end Angular"
+    "title": "Trista Wang's Resume",
+    "description": "resume AI project manager"
   },
   "sections": {
     "header": "HOME",
@@ -195,11 +195,25 @@
     },
     "library": {
       "text": "Libraries",
-      "children": ["angular", "jade", "stylus", "grunt/gulp", "webpack", "ES6", "karma", "protractor"]
+      "children": [
+        "angular",
+        "jade",
+        "stylus",
+        "grunt/gulp",
+        "webpack",
+        "ES6",
+        "karma",
+        "protractor"
+      ]
     },
     "tooling": {
       "text": "Tooling",
-      "children": ["GIT", "Mac", "Atom", "Scrum"]
+      "children": [
+        "GIT",
+        "Mac",
+        "Atom",
+        "Scrum"
+      ]
     },
     "language": {
       "text": "English",
@@ -229,7 +243,12 @@
         "icon": "fa-github",
         "name": "angular1-webpack-starter",
         "year": "2015.8-Now",
-        "library": ["angular", "ES6", "webpack", "ui-router"],
+        "library": [
+          "angular",
+          "ES6",
+          "webpack",
+          "ui-router"
+        ],
         "description": [
           "Pure directive based development",
           "100% unit test coverage",
@@ -253,7 +272,11 @@
         "icon": "fa-credit-card",
         "name": "GoBank/GreenDot",
         "year": "2014.5-2016.5",
-        "library": ["angular", "stylus", "jade"],
+        "library": [
+          "angular",
+          "stylus",
+          "jade"
+        ],
         "description": [
           "Promote component based development",
           "Promote standard coding style",
@@ -281,7 +304,12 @@
         "icon": "fa-cloud",
         "name": "Cloud Resilience System",
         "year": "2013.1-2013.12",
-        "library": ["SVG", "web.py", "MongoDB", "AWS"],
+        "library": [
+          "SVG",
+          "web.py",
+          "MongoDB",
+          "AWS"
+        ],
         "description": [
           "Simulate disasters on cloud infrastructure",
           "Data visualization using SVG"
@@ -291,7 +319,11 @@
         "icon": "fa-sitemap",
         "name": "Fitting Room",
         "year": "2011.6-2012.3",
-        "library": ["PHP", "Flash", "AR"],
+        "library": [
+          "PHP",
+          "Flash",
+          "AR"
+        ],
         "description": [
           "Virtual online fitting room using AR",
           "TOP 10 in Taobao App Contest 2012"
@@ -308,7 +340,11 @@
         "icon": "fa-magic",
         "name": "Interactive Wish Tree",
         "year": "2012.6-2012.7",
-        "library": ["Node", "SVG", "socket.io"],
+        "library": [
+          "Node",
+          "SVG",
+          "socket.io"
+        ],
         "description": [
           "Tree animation using SVG",
           "Interaction between iPad and Web page using socket.io",
